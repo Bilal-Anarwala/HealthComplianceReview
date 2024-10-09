@@ -8,4 +8,4 @@ Security Controls Requirements Table: Create a table or spreadsheet listing secu
 
 Explain the Controls: Write brief descriptions for each control, explaining how it applies to the compliance requirements. You can also include any additional controls you believe should be implemented.
 
-Recommendation for Implementation: Present an implementation plan, prioritizing the controls based on their criticality. Justify your prioritization and assume no controls are currently in place.
+Recommendation for Implementation: Present an implementation plan, prioritizing the controls based on their criticality. 
